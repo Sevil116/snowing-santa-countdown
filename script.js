@@ -2,7 +2,7 @@ particlesJS("particles-js", {"particles":{"number":{"value":1000,"density":{"ena
 
 
 function christmasCountDown() {
-    const christmasDate = new Date("December 25, 2024 00:00")
+    const christmasDate = new Date("December 25, 2025 00:00")
     const now = new Date();
     const diff = christmasDate - now;
     
