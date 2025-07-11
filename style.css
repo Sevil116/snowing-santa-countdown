@@ -4,7 +4,7 @@
     height: 100%; 
 }
 body {
-    background-image: url(https://cdn.glitch.global/576179e5-7727-4ba1-96fe-f058f5cdd9d5/santa.jpeg?v=1704946935219);
+    background-image: url(santa.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: red;
